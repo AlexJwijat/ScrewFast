@@ -1,29 +1,29 @@
 {
-  "subTitle": "Ask us anything about our brand and products, and get factual responses.",
+  "subTitle": "Find answers to your questions about our tutoring services and educational approach.",
   "faqs": [
     {
-      "question": "What types of tools are included in the Starter Kit?",
-      "answer": "The Starter Kit features essential hand and power tools for diverse DIY projects, including hammers, drills, screwdrivers, and a variety of fasteners. It's a curated selection to help beginners and experienced DIYers alike tackle most home improvement tasks."
+      "question": "What subjects are covered in the Student Package?",
+      "answer": "The Student Package covers a wide range of subjects, including mathematics, sciences, languages, and humanities. Our tutors are qualified to assist students from elementary to university level in these areas."
     },
     {
-      "question": "Can I upgrade from the Starter Kit to the Professional Toolbox?",
-      "answer": "Absolutely! You can upgrade to the Professional Toolbox at any time to access a wider range of high-quality tools, enjoy priority customer support, and receive exclusive content. Contact our support team for a seamless transition."
+      "question": "Can I upgrade from the Student Package to the Excellence Package?",
+      "answer": "Absolutely! You can upgrade to the Excellence Package at any time to benefit from more tutoring hours, unlimited access to premium resources, and personalized tracking. Contact our support team for a smooth transition."
     },
     {
-      "question": "What discounts are available for bulk orders through the Professional Toolbox plan?",
-      "answer": "Professional Toolbox members are entitled to exclusive discounts on bulk orders, the percentage of which may vary depending on the order volume. Get in touch with us to discuss your needs, and we'll provide a tailored discount structure."
+      "question": "How do online tutoring sessions work?",
+      "answer": "Our online tutoring sessions take place via a secure video conferencing platform. Students can interact in real-time with their tutor, share their screen, use a virtual whiteboard, and access interactive educational resources."
     },
     {
-      "question": "What kind of customer support can I expect?",
-      "answer": "All our customers receive dedicated email support. With the Starter Kit, you'll receive our standard support, while the Professional Toolbox plan upgrades you to priority support, meaning faster response times and specialized assistance."
+      "question": "What type of support is offered outside of tutoring sessions?",
+      "answer": "All our students benefit from email support. The Student Package includes standard email support, while the Excellence Package offers priority 24/7 support, meaning faster response times and specialized assistance."
     },
     {
-      "question": "How current are the online resources and tutorials?",
-      "answer": "We regularly update our online resources and tutorials to reflect the latest trends in DIY and construction, as well as introductions to new tools and techniques. Our material aims to be comprehensive and user-friendly for all skill levels."
+      "question": "How often are online resources and tutorials updated?",
+      "answer": "We regularly update our online resources and tutorials to reflect the latest educational trends and curriculum changes. Our material aims to be comprehensive and user-friendly for all skill levels and academic stages."
     },
     {
-      "question": "Does ScrewFast offer services for large-scale construction projects?",
-      "answer": "Yes, our Enterprise Solutions are designed for larger companies requiring comprehensive services. We provide consultation, planning, and supply of high-grade tools and materials, as well as staffing solutions for substantial construction needs. Contact us for a customized quote."
+      "question": "Does TutorMe offer services for schools or educational institutions?",
+      "answer": "Yes, our School Programs are designed for educational institutions needing comprehensive tutoring services. We provide consultations, planning, and implementation of tutoring programs tailored to your school's needs. Contact us for a personalized quote."
     }
   ]
 }
