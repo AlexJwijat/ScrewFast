@@ -2,28 +2,28 @@
   "subTitle": "Find answers to your questions about our tutoring services and educational approach.",
   "faqs": [
     {
-      "question": "What subjects are covered in the Student Package?",
-      "answer": "The Student Package covers a wide range of subjects, including mathematics, sciences, languages, and humanities. Our tutors are qualified to assist students from elementary to university level in these areas."
+      "question": "What subjects and grade levels do you cover?",
+      "answer": "We offer tutoring services for a wide range of subjects including mathematics, sciences, languages, and humanities. Our tutors are qualified to assist students from elementary school through college level, with pricing adjusted based on the grade level."
     },
     {
-      "question": "Can I upgrade from the Student Package to the Excellence Package?",
-      "answer": "Absolutely! You can upgrade to the Excellence Package at any time to benefit from more tutoring hours, unlimited access to premium resources, and personalized tracking. Contact our support team for a smooth transition."
+      "question": "How is pricing determined for different grade levels?",
+      "answer": "Our pricing is structured based on the student's grade level, reflecting the increasing complexity of subjects as students progress. While the core services remain the same, the rates for elementary, middle school, high school, and college levels differ to account for the specialized knowledge required at each stage."
+    },
+    {
+      "question": "Can I change my tutoring schedule or subject focus?",
+      "answer": "Absolutely! You can modify your tutoring schedule or change the subjects you're focusing on at any time. Our flexible approach allows you to adjust your tutoring plan to best suit your evolving needs. Contact our support team, and they'll help you make any necessary changes."
     },
     {
       "question": "How do online tutoring sessions work?",
-      "answer": "Our online tutoring sessions take place via a secure video conferencing platform. Students can interact in real-time with their tutor, share their screen, use a virtual whiteboard, and access interactive educational resources."
+      "answer": "Our online tutoring sessions take place via a secure video conferencing platform. Students can interact in real-time with their tutor, share their screen, use a virtual whiteboard, and collaborate on documents. The platform is user-friendly and designed to create an engaging learning environment, regardless of the student's grade level."
     },
     {
-      "question": "What type of support is offered outside of tutoring sessions?",
-      "answer": "All our students benefit from email support. The Student Package includes standard email support, while the Excellence Package offers priority 24/7 support, meaning faster response times and specialized assistance."
+      "question": "What qualifications do your tutors have?",
+      "answer": "Our tutors are highly qualified professionals with at least a bachelor's degree in their subject area. Many have advanced degrees and teaching certifications. All tutors undergo a rigorous selection process, background checks, and receive ongoing training to ensure they provide the highest quality instruction across all grade levels."
     },
     {
-      "question": "How often are online resources and tutorials updated?",
-      "answer": "We regularly update our online resources and tutorials to reflect the latest educational trends and curriculum changes. Our material aims to be comprehensive and user-friendly for all skill levels and academic stages."
-    },
-    {
-      "question": "Does TutorMe offer services for schools or educational institutions?",
-      "answer": "Yes, our School Programs are designed for educational institutions needing comprehensive tutoring services. We provide consultations, planning, and implementation of tutoring programs tailored to your school's needs. Contact us for a personalized quote."
+      "question": "Do you offer group tutoring or services for schools?",
+      "answer": "Yes, we offer group tutoring sessions as well as comprehensive programs for schools and educational institutions. Our school services can be tailored to elementary, middle school, high school, or college-level needs. These programs include consultations, planning, and implementation of tutoring services customized to the specific requirements of the institution. Contact us for more information and a personalized quote."
     }
   ]
 }

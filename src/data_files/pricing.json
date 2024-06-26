@@ -5,34 +5,67 @@
   "thirdOption": "School Programs?",
   "btnText": "Get a Custom Quote",
 
-  "starterKit": {
-    "name": "Student Package",
-    "description": "Ideal for occasional academic support",
-    "price": "39",
-    "cents": ".99",
-    "billingFrequency": "USD / month",
+  "elementarySchool": {
+    "name": "Elementary School",
+    "description": "Prices Starting from",
+    "price": "$50",
+    "cents": "",
+    "billingFrequency": "/hr",
     "features": [
-      "4 hours of tutoring per month",
-      "Access to online learning resources",
-      "Email support"
+      "Personalized learning plans",
+      "Basic subjects coverage",
+      "Interactive learning games",
+      "Parent-teacher communication"
     ],
-    "purchaseBtnTitle": "Choose Student Package",
+    "purchaseBtnTitle": "Choose Elementary Package",
     "purchaseLink": "#"
   },
 
-  "professionalToolbox": {
-    "name": "Excellence Package",
-    "description": "For comprehensive academic support",
-    "price": "89",
-    "cents": ".99",
-    "billingFrequency": "USD / month",
+  "middleSchool": {
+    "name": "Middle School",
+    "description": "Prices Starting from",
+    "price": "$50",
+    "cents": "",
+    "billingFrequency": "/hr",
     "features": [
-      "10 hours of tutoring per month",
-      "Unlimited access to premium resources",
-      "24/7 priority support",
-      "Personalized progress tracking"
+      "Advanced subject specialization",
+      "Study skills development",
+      "Test preparation support",
+      "Progress reports and feedback"
     ],
-    "purchaseBtnTitle": "Choose Excellence Package",
+    "purchaseBtnTitle": "Choose Middle School Package",
+    "purchaseLink": "#"
+  },
+
+  "highSchool": {
+    "name": "High School",
+    "description": "Prices Starting from",
+    "price": "$55",
+    "cents": "",
+    "billingFrequency": "/hr",
+    "features": [
+      "AP and IB course support",
+      "SAT/ACT prep materials",
+      "College admissions guidance",
+      "Career exploration resources"
+    ],
+    "purchaseBtnTitle": "Choose High School Package",
+    "purchaseLink": "#"
+  },
+
+  "college": {
+    "name": "College",
+    "description": "Prices Starting from",
+    "price": "$65",
+    "cents": "",
+    "billingFrequency": "/hr",
+    "features": [
+      "Advanced topic expertise",
+      "Research paper assistance",
+      "Exam preparation strategies",
+      "Graduate school application support"
+    ],
+    "purchaseBtnTitle": "Choose College Package",
     "purchaseLink": "#"
   }
 }

@@ -12,7 +12,7 @@ import heroImage from "@images/tutoring-hero-image.avif";
 import faqs from "@data/faqs.json";
 import features from "@data/features.json";
 import pricing from "@data/pricing.json";
-import featureImage from "@images/subject-expertise.avif";
+import featureImage from "@images/feature-Image.avif";
 import onlineTutoring from "@images/online-tutoring.avif";
 import personalizedLearning from "@images/personalized-learning.avif";
 import subjectExpertise from "@images/subject-expertise.avif";
@@ -26,11 +26,11 @@ const avatarSrcs: Array<string> = [
 ---
 
 <MainLayout>
-  <AnnouncementBanner
+  <!-- <AnnouncementBanner
     btnId="dismiss-button"
     btnTitle="Book a Free Session!"
     url="/contact"
-  />
+  /> -->
 
   <HeroSection
     title=`Unlock Your Potential with <span
@@ -44,7 +44,7 @@ const avatarSrcs: Array<string> = [
     avatars={avatarSrcs}
     rating=`<span class="font-bold">4.9</span> / 5`
     starCount={5}
-    reviews=`From Over <span class="font-bold">10k</span> Happy Students`
+    reviews=`From Over <span class="font-bold">30</span> Happy Students`
     src={heroImage}
     alt="A student studying with a tutor in a bright, welcoming environment"
   />
@@ -104,7 +104,7 @@ const avatarSrcs: Array<string> = [
     ]}
     statistics={[
       {
-        count: "50k+",
+        count: "30+",
         description:
           "students empowered — from elementary to university level",
       },
@@ -114,13 +114,13 @@ const avatarSrcs: Array<string> = [
           "average grade improvement reported by our students",
       },
       {
-        count: "98%",
+        count: "99%",
         description:
           "satisfaction rate among students and parents",
       },
       {
-        count: "1000+",
-        description: "expert tutors across all subjects and levels",
+        count: "200+",
+        description: "hours of experience tutoring for each tutor",
       },
     ]}
   />
@@ -129,9 +129,9 @@ const avatarSrcs: Array<string> = [
 
   <FAQ title="Frequently<br />asked questions" faqs={faqs} />
 
-  <HeroSectionAlt
+  <!-- <HeroSectionAlt
     title="Join Our Learning Community"
     subTitle="TutorMe is committed to providing accessible, high-quality education to learners worldwide. Start your journey to academic success today."
     url="/get-started"
-  />
+  /> -->
 </MainLayout>
